@@ -13,3 +13,10 @@ floating_btn.addEventListener('click', () => {
 close_btn.addEventListener('click', () => {
 	social_panel_container.classList.remove('visible')
 });
+
+/* const music = new Audio('music/dontstop.mp3');
+music.play();
+music.loop =true;
+music.playbackRate = 2;
+music.pause(); */
+// qqazszdgfbgtyj
